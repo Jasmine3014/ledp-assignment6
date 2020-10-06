@@ -1,0 +1,39 @@
+table{
+    border-collapse: collapse;
+    width: 35%;
+    text-transform: capitalize;
+    color: white;
+    background-color: #393a34; 
+
+
+    
+}
+table,tr,th,td{
+
+    font-size: 24px;
+    line-height: 1.8;
+    text-align: center;
+    
+ }
+ 
+ td{
+    text-align: center;
+   
+
+}
+td:hover{
+border:3px solid black;
+background:#2196f3;
+box-shadow:blue ;
+}
+h2{
+
+}
+.header{
+    display: inline-flex;
+}
+.fa{
+    margin-left: 17%;
+    margin-top: 10px;
+    padding: 15px;
+}
